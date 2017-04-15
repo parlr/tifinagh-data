@@ -1,0 +1,567 @@
+[
+  {
+    "codepoint": "U+2D30",
+    "glyph": "ⴰ",
+    "latin": "a",
+    "API": "a",
+    "arabic": "ا",
+    "name": "ya",
+    "type": "base"
+  },
+  {
+    "codepoint": "U+2D31",
+    "glyph": "ⴱ",
+    "latin": "b",
+    "API": "b",
+    "arabic": "ب",
+    "name": "yab",
+    "type": "base"
+  },
+  {
+    "codepoint": "U+2D32",
+    "glyph": "ⴲ",
+    "latin": "bh",
+    "API": "ḇ",
+    "arabic": "ٻ",
+    "name": "yabh",
+    "type": "extended"
+  },
+  {
+    "codepoint": "U+2D33",
+    "glyph": "ⴳ",
+    "latin": "g",
+    "API": "ɡ",
+    "arabic": "گ",
+    "name": "yag",
+    "type": "base"
+  },
+  {
+    "codepoint": "U+2D34",
+    "glyph": "ⴴ",
+    "latin": "ghh",
+    "API": "ḡ",
+    "arabic": "ڲ",
+    "name": "yaghh",
+    "type": "extended"
+  },
+  {
+    "codepoint": "U+2D35",
+    "glyph": "ⴵ",
+    "latin": "dj",
+    "API": "ʤ",
+    "arabic": "ج",
+    "name": "yadj",
+    "type": "other"
+  },
+  {
+    "codepoint": "U+2D36",
+    "glyph": "ⴶ",
+    "latin": "dj",
+    "API": "ʤ",
+    "arabic": "ج",
+    "name": "yadj",
+    "type": "other"
+  },
+  {
+    "codepoint": "U+2D37",
+    "glyph": "ⴷ",
+    "latin": "d",
+    "API": "d",
+    "arabic": "د",
+    "name": "yad",
+    "type": "base"
+  },
+  {
+    "codepoint": "U+2D38",
+    "glyph": "ⴸ",
+    "latin": "dh",
+    "API": "ḏ",
+    "arabic": "ذ",
+    "name": "yadh",
+    "type": "extended"
+  },
+  {
+    "codepoint": "U+2D39",
+    "glyph": "ⴹ",
+    "latin": "dd",
+    "API": "ḍ",
+    "arabic": "ض",
+    "name": "yadd",
+    "type": "base"
+  },
+  {
+    "codepoint": "U+2D3A",
+    "glyph": "ⴺ",
+    "latin": "ddh",
+    "API": "ḏ̣",
+    "arabic": "ظ",
+    "name": "yaddh",
+    "type": "extended"
+  },
+  {
+    "codepoint": "U+2D3B",
+    "glyph": "ⴻ",
+    "latin": "è, ey",
+    "API": "ɛ",
+    "arabic": "",
+    "name": "yè, yey",
+    "type": "base"
+  },
+  {
+    "codepoint": "U+2D3C",
+    "glyph": "ⴼ",
+    "latin": "f",
+    "API": "f",
+    "arabic": "ف",
+    "name": "yaf",
+    "type": "base"
+  },
+  {
+    "codepoint": "U+2D3D",
+    "glyph": "ⴽ",
+    "latin": "k",
+    "API": "k",
+    "arabic": "ك",
+    "name": "yak",
+    "type": "base"
+  },
+  {
+    "codepoint": "U+2D3E",
+    "glyph": "ⴾ",
+    "latin": "k",
+    "API": "k",
+    "arabic": "ك",
+    "name": "yak",
+    "type": "modern touareg"
+  },
+  {
+    "codepoint": "U+2D3F",
+    "glyph": "ⴿ",
+    "latin": "khh",
+    "API": "ḵ",
+    "arabic": "ڪ",
+    "name": "yakhh",
+    "type": "extended"
+  },
+  {
+    "codepoint": "U+2D40",
+    "glyph": "ⵀ",
+    "latin": "h",
+    "API": "h",
+    "arabic": "ه",
+    "name": "yah",
+    "type": "base"
+  },
+  {
+    "codepoint": "U+2D40",
+    "glyph": "ⵀ",
+    "latin": "b",
+    "API": "b",
+    "arabic": "ب",
+    "name": "yab",
+    "type": "modern touareg"
+  },
+  {
+    "codepoint": "U+2D41",
+    "glyph": "ⵁ",
+    "latin": "h",
+    "API": "h",
+    "arabic": "ه",
+    "name": "yah",
+    "type": "other"
+  },
+  {
+    "codepoint": "U+2D42",
+    "glyph": "ⵂ",
+    "latin": "h",
+    "API": "h",
+    "arabic": "ه",
+    "name": "yah",
+    "type": "modern touareg"
+  },
+  {
+    "codepoint": "U+2D43",
+    "glyph": "ⵃ",
+    "latin": "hh",
+    "API": "ḥ",
+    "arabic": "ح",
+    "name": "yahh",
+    "type": "base"
+  },
+  {
+    "codepoint": "U+2D44",
+    "glyph": "ⵄ",
+    "latin": "ʿ",
+    "API": "ʕ",
+    "arabic": "ع",
+    "name": "yaʿ",
+    "type": "base"
+  },
+  {
+    "codepoint": "U+2D45",
+    "glyph": "ⵅ",
+    "latin": "kh",
+    "API": "x",
+    "arabic": "خ",
+    "name": "yakh",
+    "type": "base"
+  },
+  {
+    "codepoint": "U+2D46",
+    "glyph": "ⵆ",
+    "latin": "kh",
+    "API": "x",
+    "arabic": "خ",
+    "name": "yakh",
+    "type": "modern touareg"
+  },
+  {
+    "codepoint": "U+2D47",
+    "glyph": "ⵇ",
+    "latin": "q",
+    "API": "q",
+    "arabic": "ق",
+    "name": "yaq",
+    "type": "base"
+  },
+  {
+    "codepoint": "U+2D48",
+    "glyph": "ⵈ",
+    "latin": "q",
+    "API": "q",
+    "arabic": "ق",
+    "name": "yaq",
+    "type": "modern touareg"
+  },
+  {
+    "codepoint": "U+2D49",
+    "glyph": "ⵉ",
+    "latin": "i",
+    "API": "i",
+    "arabic": "ئ",
+    "name": "yi",
+    "type": "base"
+  },
+  {
+    "codepoint": "U+2D4A",
+    "glyph": "ⵊ",
+    "latin": "j",
+    "API": "ʒ",
+    "arabic": "ج",
+    "name": "yaj",
+    "type": "base"
+  },
+  {
+    "codepoint": "U+2D4B",
+    "glyph": "ⵋ",
+    "latin": "j",
+    "API": "ʒ",
+    "arabic": "ج",
+    "name": "yaj",
+    "type": "modern touareg",
+    "comments": "de l'Ahaggar"
+  },
+  {
+    "codepoint": "U+2D4C",
+    "glyph": "ⵌ",
+    "latin": "j",
+    "API": "ʒ",
+    "arabic": "ج",
+    "name": "yaj",
+    "type": "modern touareg"
+  },
+  {
+    "codepoint": "U+2D4D",
+    "glyph": "ⵍ",
+    "latin": "l",
+    "API": "l",
+    "arabic": "ل",
+    "name": "yal",
+    "type": "base"
+  },
+  {
+    "codepoint": "U+2D4E",
+    "glyph": "ⵎ",
+    "latin": "m",
+    "API": "m",
+    "arabic": "م",
+    "name": "yam",
+    "type": "base"
+  },
+  {
+    "codepoint": "U+2D4F",
+    "glyph": "ⵏ",
+    "latin": "n",
+    "API": "n",
+    "arabic": "ن",
+    "name": "yan",
+    "type": "base"
+  },
+  {
+    "codepoint": "U+2D50",
+    "glyph": "ⵐ",
+    "latin": "ny",
+    "API": "ɲ",
+    "arabic": "ني",
+    "name": "yagn",
+    "type": "modern touareg"
+  },
+  {
+    "codepoint": "U+2D51",
+    "glyph": "ⵑ",
+    "latin": "ng",
+    "API": "ŋ",
+    "arabic": "نڭ",
+    "name": "yang",
+    "type": "modern touareg"
+  },
+  {
+    "codepoint": "U+2D52",
+    "glyph": "ⵒ",
+    "latin": "p",
+    "API": "p",
+    "arabic": "پ",
+    "name": "yap",
+    "type": "extended"
+  },
+  {
+    "codepoint": "U+2D53",
+    "glyph": "ⵓ",
+    "latin": "u",
+    "API": "u",
+    "arabic": "و",
+    "name": "you",
+    "type": "base"
+  },
+  {
+    "codepoint": "U+2D53",
+    "glyph": "ⵓ",
+    "latin": "w",
+    "API": "w",
+    "arabic": "و",
+    "name": "yaw",
+    "type": "modern touareg"
+  },
+  {
+    "codepoint": "U+2D54",
+    "glyph": "ⵔ",
+    "latin": "r",
+    "API": "r",
+    "arabic": "ر",
+    "name": "yar",
+    "type": "base"
+  },
+  {
+    "codepoint": "U+2D55",
+    "glyph": "ⵕ",
+    "latin": "rr",
+    "API": "ṛ",
+    "arabic": "ڕ",
+    "name": "yarr",
+    "type": "base"
+  },
+  {
+    "codepoint": "U+2D56",
+    "glyph": "ⵖ",
+    "latin": "gh",
+    "API": "ɣ",
+    "arabic": "غ",
+    "name": "yagh",
+    "type": "base"
+  },
+  {
+    "codepoint": "U+2D57",
+    "glyph": "ⵗ",
+    "latin": "gh",
+    "API": "ɣ",
+    "arabic": "غ",
+    "name": "yagh",
+    "type": "touareg modern"
+  },
+  {
+    "codepoint": "U+2D58",
+    "glyph": "ⵘ",
+    "latin": "gh",
+    "API": "ɣ",
+    "arabic": "غ",
+    "name": "yagh",
+    "type": "modern touareg",
+    "comments": "de l'Aïr"
+  },
+  {
+    "codepoint": "U+2D58",
+    "glyph": "ⵘ",
+    "latin": "dj",
+    "API": "ʤ",
+    "arabic": "غ",
+    "name": "yadj",
+    "type": "modern touareg",
+    "comments": "de l'Adrar"
+  },
+  {
+    "codepoint": "U+2D59",
+    "glyph": "ⵙ",
+    "latin": "s",
+    "API": "s",
+    "arabic": "س",
+    "name": "yas",
+    "type": "base"
+  },
+  {
+    "codepoint": "U+2D5A",
+    "glyph": "ⵚ",
+    "latin": "ss",
+    "API": "ṣ",
+    "arabic": "ص",
+    "name": "yass",
+    "type": "base"
+  },
+  {
+    "codepoint": "U+2D5B",
+    "glyph": "ⵛ",
+    "latin": "sh",
+    "API": "ʃ",
+    "arabic": "ش",
+    "name": "yach",
+    "type": "base"
+  },
+  {
+    "codepoint": "U+2D5C",
+    "glyph": "ⵜ",
+    "latin": "t",
+    "API": "t",
+    "arabic": "ت",
+    "name": "yat",
+    "type": "base"
+  },
+  {
+    "codepoint": "U+2D5D",
+    "glyph": "ⵝ",
+    "latin": "th",
+    "API": "ṯ",
+    "arabic": "ث",
+    "name": "yath",
+    "type": "extended"
+  },
+  {
+    "codepoint": "U+2D5E",
+    "glyph": "ⵞ",
+    "latin": "ch",
+    "API": "ʧ",
+    "arabic": "تش",
+    "name": "yatch",
+    "type": "other"
+  },
+  {
+    "codepoint": "U+2D5F",
+    "glyph": "ⵟ",
+    "latin": "tt",
+    "API": "ṭ",
+    "arabic": "ط",
+    "name": "yatt",
+    "type": "base"
+  },
+  {
+    "codepoint": "U+2D60",
+    "glyph": "ⵠ",
+    "latin": "v",
+    "API": "v",
+    "arabic": "ڤ",
+    "name": "yav",
+    "type": "base"
+  },
+  {
+    "codepoint": "U+2D61",
+    "glyph": "ⵡ",
+    "latin": "w",
+    "API": "w",
+    "arabic": "و",
+    "name": "yaw",
+    "type": "extended"
+  },
+  {
+    "codepoint": "U+2D62",
+    "glyph": "ⵢ",
+    "latin": "y",
+    "API": "j",
+    "arabic": "ي",
+    "name": "yay",
+    "type": "base"
+  },
+  {
+    "codepoint": "U+2D63",
+    "glyph": "ⵣ",
+    "latin": "z",
+    "API": "z",
+    "arabic": "ز",
+    "name": "yaz",
+    "type": "base"
+  },
+  {
+    "codepoint": "U+2D64",
+    "glyph": "ⵤ",
+    "latin": "z",
+    "API": "z",
+    "arabic": "ز",
+    "name": "yaz",
+    "type": "modern touareg",
+    "comments": "Tawellemet, harpon"
+  },
+  {
+    "codepoint": "U+2D65",
+    "glyph": "ⵥ",
+    "latin": "zz",
+    "API": "ẓ",
+    "arabic": "ﮊ",
+    "name": "yazz",
+    "type": "base"
+  },
+  {
+    "codepoint": "U+2D66",
+    "glyph": "ⵦ",
+    "latin": "é",
+    "API": "e",
+    "arabic": "yé",
+    "name": "modern",
+    "type": "modern touareg",
+    "comments": "APT, Niger"
+  },
+  {
+    "codepoint": "U+2D67",
+    "glyph": "ⵧ",
+    "latin": "o",
+    "API": "o",
+    "arabic": "yo",
+    "name": "modern",
+    "type": "modern touareg",
+    "comments": "APT"
+  },
+  {
+    "codepoint": "U+2D6F",
+    "glyph": "ⵯ",
+    "latin": "ʷ",
+    "API": "ʷ",
+    "arabic": "ۥ",
+    "name": "tamatart",
+    "type": "base",
+    "comments": "lettre modificative de labialisation"
+  },
+  {
+    "codepoint": "U+2D70",
+    "glyph": "⵰",
+    "latin": "",
+    "API": "",
+    "arabic": "ۥ",
+    "name": "séparateur",
+    "type": "modern touareg"
+  },
+  {
+    "codepoint": "U+2D7F",
+    "glyph": "⵿",
+    "latin": "",
+    "API": "",
+    "arabic": "",
+    "name": "modern touareg",
+    "type": "liant de consonnes9"
+  }
+]
