@@ -1,0 +1,312 @@
+[
+  {
+    "codepoint": "U+2D30",
+    "glyph": "ⴰ",
+    "ruby": "a"
+  },
+  {
+    "codepoint": "U+2D31",
+    "glyph": "ⴱ",
+    "ruby": "b"
+  },
+  {
+    "codepoint": "U+2D32",
+    "glyph": "ⴲ",
+    "ruby": "bh"
+  },
+  {
+    "codepoint": "U+2D33",
+    "glyph": "ⴳ",
+    "ruby": "g"
+  },
+  {
+    "codepoint": "U+2D34",
+    "glyph": "ⴴ",
+    "ruby": "ghh"
+  },
+  {
+    "codepoint": "U+2D35",
+    "glyph": "ⴵ",
+    "ruby": "dj"
+  },
+  {
+    "codepoint": "U+2D36",
+    "glyph": "ⴶ",
+    "ruby": "dj"
+  },
+  {
+    "codepoint": "U+2D37",
+    "glyph": "ⴷ",
+    "ruby": "d"
+  },
+  {
+    "codepoint": "U+2D38",
+    "glyph": "ⴸ",
+    "ruby": "dh"
+  },
+  {
+    "codepoint": "U+2D39",
+    "glyph": "ⴹ",
+    "ruby": "dd"
+  },
+  {
+    "codepoint": "U+2D3A",
+    "glyph": "ⴺ",
+    "ruby": "ddh"
+  },
+  {
+    "codepoint": "U+2D3B",
+    "glyph": "ⴻ",
+    "ruby": "è, ey"
+  },
+  {
+    "codepoint": "U+2D3C",
+    "glyph": "ⴼ",
+    "ruby": "f"
+  },
+  {
+    "codepoint": "U+2D3D",
+    "glyph": "ⴽ",
+    "ruby": "k"
+  },
+  {
+    "codepoint": "U+2D3E",
+    "glyph": "ⴾ",
+    "ruby": "k"
+  },
+  {
+    "codepoint": "U+2D3F",
+    "glyph": "ⴿ",
+    "ruby": "khh"
+  },
+  {
+    "codepoint": "U+2D40",
+    "glyph": "ⵀ",
+    "ruby": "h"
+  },
+  {
+    "codepoint": "U+2D40",
+    "glyph": "ⵀ",
+    "ruby": "b"
+  },
+  {
+    "codepoint": "U+2D41",
+    "glyph": "ⵁ",
+    "ruby": "h"
+  },
+  {
+    "codepoint": "U+2D42",
+    "glyph": "ⵂ",
+    "ruby": "h"
+  },
+  {
+    "codepoint": "U+2D43",
+    "glyph": "ⵃ",
+    "ruby": "hh"
+  },
+  {
+    "codepoint": "U+2D44",
+    "glyph": "ⵄ",
+    "ruby": "ʿ"
+  },
+  {
+    "codepoint": "U+2D45",
+    "glyph": "ⵅ",
+    "ruby": "kh"
+  },
+  {
+    "codepoint": "U+2D46",
+    "glyph": "ⵆ",
+    "ruby": "kh"
+  },
+  {
+    "codepoint": "U+2D47",
+    "glyph": "ⵇ",
+    "ruby": "q"
+  },
+  {
+    "codepoint": "U+2D48",
+    "glyph": "ⵈ",
+    "ruby": "q"
+  },
+  {
+    "codepoint": "U+2D49",
+    "glyph": "ⵉ",
+    "ruby": "i"
+  },
+  {
+    "codepoint": "U+2D4A",
+    "glyph": "ⵊ",
+    "ruby": "j"
+  },
+  {
+    "codepoint": "U+2D4B",
+    "glyph": "ⵋ",
+    "ruby": "j"
+  },
+  {
+    "codepoint": "U+2D4C",
+    "glyph": "ⵌ",
+    "ruby": "j"
+  },
+  {
+    "codepoint": "U+2D4D",
+    "glyph": "ⵍ",
+    "ruby": "l"
+  },
+  {
+    "codepoint": "U+2D4E",
+    "glyph": "ⵎ",
+    "ruby": "m"
+  },
+  {
+    "codepoint": "U+2D4F",
+    "glyph": "ⵏ",
+    "ruby": "n"
+  },
+  {
+    "codepoint": "U+2D50",
+    "glyph": "ⵐ",
+    "ruby": "ny"
+  },
+  {
+    "codepoint": "U+2D51",
+    "glyph": "ⵑ",
+    "ruby": "ng"
+  },
+  {
+    "codepoint": "U+2D52",
+    "glyph": "ⵒ",
+    "ruby": "p"
+  },
+  {
+    "codepoint": "U+2D53",
+    "glyph": "ⵓ",
+    "ruby": "u"
+  },
+  {
+    "codepoint": "U+2D53",
+    "glyph": "ⵓ",
+    "ruby": "w"
+  },
+  {
+    "codepoint": "U+2D54",
+    "glyph": "ⵔ",
+    "ruby": "r"
+  },
+  {
+    "codepoint": "U+2D55",
+    "glyph": "ⵕ",
+    "ruby": "rr"
+  },
+  {
+    "codepoint": "U+2D56",
+    "glyph": "ⵖ",
+    "ruby": "gh"
+  },
+  {
+    "codepoint": "U+2D57",
+    "glyph": "ⵗ",
+    "ruby": "gh"
+  },
+  {
+    "codepoint": "U+2D58",
+    "glyph": "ⵘ",
+    "ruby": "gh"
+  },
+  {
+    "codepoint": "U+2D58",
+    "glyph": "ⵘ",
+    "ruby": "dj"
+  },
+  {
+    "codepoint": "U+2D59",
+    "glyph": "ⵙ",
+    "ruby": "s"
+  },
+  {
+    "codepoint": "U+2D5A",
+    "glyph": "ⵚ",
+    "ruby": "ss"
+  },
+  {
+    "codepoint": "U+2D5B",
+    "glyph": "ⵛ",
+    "ruby": "sh"
+  },
+  {
+    "codepoint": "U+2D5C",
+    "glyph": "ⵜ",
+    "ruby": "t"
+  },
+  {
+    "codepoint": "U+2D5D",
+    "glyph": "ⵝ",
+    "ruby": "th"
+  },
+  {
+    "codepoint": "U+2D5E",
+    "glyph": "ⵞ",
+    "ruby": "ch"
+  },
+  {
+    "codepoint": "U+2D5F",
+    "glyph": "ⵟ",
+    "ruby": "tt"
+  },
+  {
+    "codepoint": "U+2D60",
+    "glyph": "ⵠ",
+    "ruby": "v"
+  },
+  {
+    "codepoint": "U+2D61",
+    "glyph": "ⵡ",
+    "ruby": "w"
+  },
+  {
+    "codepoint": "U+2D62",
+    "glyph": "ⵢ",
+    "ruby": "y"
+  },
+  {
+    "codepoint": "U+2D63",
+    "glyph": "ⵣ",
+    "ruby": "z"
+  },
+  {
+    "codepoint": "U+2D64",
+    "glyph": "ⵤ",
+    "ruby": "z"
+  },
+  {
+    "codepoint": "U+2D65",
+    "glyph": "ⵥ",
+    "ruby": "zz"
+  },
+  {
+    "codepoint": "U+2D66",
+    "glyph": "ⵦ",
+    "ruby": "é"
+  },
+  {
+    "codepoint": "U+2D67",
+    "glyph": "ⵧ",
+    "ruby": "o"
+  },
+  {
+    "codepoint": "U+2D6F",
+    "glyph": "ⵯ",
+    "ruby": "ʷ"
+  },
+  {
+    "codepoint": "U+2D70",
+    "glyph": "⵰",
+    "ruby": ""
+  },
+  {
+    "codepoint": "U+2D7F",
+    "glyph": "⵿",
+    "ruby": ""
+  }
+]

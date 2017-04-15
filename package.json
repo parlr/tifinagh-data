@@ -1,14 +1,15 @@
 {
   "name": "tifinagh-data",
   "scripts": {
-    "start": "node --require babel-core/register ./index.js",
+    "build": "node --require babel-core/register ./index.js",
     "test": "ava test",
     "precommit": "lint-staged npm test"
   },
   "dependencies": {
     "ava": "0.18.x",
     "jsonfile": "2.4.x",
-    "punycode": "^2.1.0"
+    "punycode": "^2.1.0",
+    "yargs": "^7.1.0"
   },
   "devDependencies": {
     "babel-core": "6.24.x",
