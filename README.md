@@ -1,3 +1,12 @@
+# tifinagh-data
+
+> Extracted data from Unicode database as JSON used to build an abjad/alphabet for Berber languages.
+
+## Usage
+
+1. checkout [`parlr/ruby-font-creator`](https://github.com/parlr/ruby-font-creator) project ;
+1. copy `data.json` to [`ruby-font-creator/src/`](https://github.com/parlr/ruby-font-creator) directory ;
+1. run the build command to generate the font
 
 ## License
 
