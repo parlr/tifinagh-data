@@ -1,3 +1,5 @@
+import jsonfile from "jsonfile";
+
 export default {
   getLatin(datum) {
     return {
@@ -19,5 +21,9 @@ export default {
       glyph: datum.glyph,
       ruby: datum.arabic
     };
+  },
+  async save(filepath, content = []) {
+    return jsonfile.writeFileSync(filepath, content, { spaces: 2 }, err =>
+      console.log(err));
   }
 };
