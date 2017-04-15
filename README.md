@@ -4,7 +4,7 @@
 
 ## Usage
 
-		yarn build -- --latin --api --arabic
+	yarn build -- --latin --api --arabic
 
 ## License
 
