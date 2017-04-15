@@ -3,7 +3,7 @@
   "scripts": {
     "build": "node --require babel-core/register ./index.js",
     "test": "ava test",
-    "precommit": "lint-staged npm test"
+    "precommit": "npm test"
   },
   "dependencies": {
     "ava": "0.18.x",
@@ -22,9 +22,7 @@
     "eslint-config-airbnb-base": "^11.1.2",
     "eslint-config-prettier": "^1.5.0",
     "eslint-plugin-import": "^2.2.0",
-    "husky": "0.13.x",
-    "lint-staged": "3.4.x",
-    "prettier": "0.22.x"
+    "husky": "0.13.x"
   },
   "ava": {
     "require": [
@@ -41,12 +39,6 @@
       "transform-runtime"
     ],
     "comments": false
-  },
-  "lint-staged": {
-    "*.js": [
-      "prettier --write",
-      "git add"
-    ]
   },
   "version": "0.1.0",
   "description": "Tifinagh data to create a ruby font (an abjad/alphabet used to write the Berber languages)",
