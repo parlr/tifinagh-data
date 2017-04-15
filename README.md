@@ -4,9 +4,7 @@
 
 ## Usage
 
-1. checkout [`parlr/ruby-font-creator`](https://github.com/parlr/ruby-font-creator) project ;
-1. copy `data.json` to [`ruby-font-creator/src/`](https://github.com/parlr/ruby-font-creator) directory ;
-1. run the build command to generate the font
+		yarn build -- --latin --api --arabic
 
 ## License
 
