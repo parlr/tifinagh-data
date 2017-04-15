@@ -13,10 +13,18 @@ function start(cliArguments) {
     }
 
     let content = [];
+
     if (cliArguments.latin) {
       content = data.map(datum => dataminer.getLatin(datum));
-      console.log(content);
       dataminer.save(path.resolve("./src/data-latin.json"), content);
+    }
+    if (cliArguments.api) {
+      content = data.map(datum => dataminer.getLatin(datum));
+      dataminer.save(path.resolve("./src/data-API.json"), content);
+    }
+    if (cliArguments.arabic) {
+      content = data.map(datum => dataminer.getLatin(datum));
+      dataminer.save(path.resolve("./src/data-arabic.json"), content);
     }
   });
 }
